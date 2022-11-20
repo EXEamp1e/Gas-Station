@@ -1,0 +1,4 @@
+C:\Users\EXEamp1e\PycharmProjects\BD\venv\Scripts\pyuic5 -x C:\Users\EXEamp1e\PycharmProjects\BD\App.ui -o C:\Users\EXEamp1e\PycharmProjects\BD\app_ui.py
+C:\Users\EXEamp1e\PycharmProjects\BD\venv\Scripts\pyuic5 -x C:\Users\EXEamp1e\PycharmProjects\BD\ConfirmDel.ui -o C:\Users\EXEamp1e\PycharmProjects\BD\confirm_del_ui.py
+C:\Users\EXEamp1e\PycharmProjects\BD\venv\Scripts\pyuic5 -x C:\Users\EXEamp1e\PycharmProjects\BD\MsgToPlan.ui -o C:\Users\EXEamp1e\PycharmProjects\BD\msg_to_plan_ui.py
+C:\Users\EXEamp1e\PycharmProjects\BD\venv\Scripts\pyuic5 -x C:\Users\EXEamp1e\PycharmProjects\BD\RegSuccess.ui -o C:\Users\EXEamp1e\PycharmProjects\BD\reg_success_ui.py
